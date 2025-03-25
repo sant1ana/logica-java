@@ -1,8 +1,8 @@
-# 🧠 Curso Lógica de Programação java Virado no Jiraya - DevDojo 🤯😬
-O curso é ministrado por William Suane, fundador do canal DevDojo Academy. <br>
+# 🧠 Curso Lógica de Programação java Virado no Jiraya - DevDojo 🤯
 
-Visitar o [canal DevDojo Academy no YouTube](https://www.youtube.com/@DevDojoBrasil) <br>
-Acessar o [site do DevDojo Academy](devdojo.academy)<br>
+O curso é ministrado por William Suane, fundador do canal DevDojo Academy.
+Visitar o [canal DevDojo Academy no YouTube](https://www.youtube.com/@DevDojoBrasil) 
+<br><br>
 
 ---
 
